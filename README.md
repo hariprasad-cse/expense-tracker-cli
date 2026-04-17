@@ -1,4 +1,5 @@
-#
+#expenses tracing 
+
 A simple command-line app to track daily expenses using Python.
 
 ## Features
